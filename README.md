@@ -21,6 +21,8 @@ Eu sou Guilherme Cabral, estudante de Programação. Atualmente estou cursando E
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.JS &nbsp;
   <img align="center" alt="Pedro-Mongoose" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg"> Mongoose
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"> MongoDB
+  <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> Git
+  <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"> Linux
 </div>
 
 <div style="display: inline_block"><br>
