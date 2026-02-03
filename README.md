@@ -1,5 +1,6 @@
 <h1>Boas vindas!</h1>
 Atuando como Analista de Desenvolvimento na Cervejaria Cidade Imperial.
+<br />
 Cursando Engenharia de Software.
 
 <div style="display: inline_block"><br>
