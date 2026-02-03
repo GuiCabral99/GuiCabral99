@@ -1,5 +1,6 @@
 <h1>Boas vindas!</h1>
-Guilherme Cabral: cursando Engenharia de Software e atuando como Analista de Desenvolvimento na Cervejaria Cidade Imperial!
+Atuando como Analista de Desenvolvimento na Cervejaria Cidade Imperial.
+Cursando Engenharia de Software.
 
 <div style="display: inline_block"><br>
   <h2>Linguagens de Programação</h2>
