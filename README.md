@@ -1,5 +1,5 @@
 <h1>Boas vindas!</h1>
-Guilherme Cabral: cursando Engenharia de Software e atuando como Desenvolvedor de Sistemas na SouFacil!
+Guilherme Cabral: cursando Engenharia de Software e atuando como Analista de Desenvolvimento na Cervejaria Cidade Imperial!
 
 <div style="display: inline_block"><br>
   <h2>Linguagens de Programação</h2>
