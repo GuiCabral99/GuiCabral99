@@ -1,41 +1,39 @@
-<h1>Boas vindas!</h1>
-Cursando Engenharia de Software.
+# Boas-vindas! 👋
 
-<div style="display: inline_block"><br>
-  <h2>Linguagens de Programação</h2>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    JavaScript 
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">            TypeScript
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  PHP
-</div>
+🎓 Cursando Engenharia de Software  
 
-<div style="display: inline_block"><br>
-  <h2>Frameworks</h2>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  React & React Native
-  <img align="center" alt="NextJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  Next.js
-  <img align="center" alt="Laravel" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  Laravel
-  
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <h2>Tecnologias</h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"> TailwindCSS
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> Node.JS &nbsp;
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"> MongoDB
-  <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"> Redis
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> MySQL / MariaDB / PostgreSQL
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> Git
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"> Linux
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> Docker
-  <img align="center" alt="Docker" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"> AWS
-</div>
+## 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 
-<div style="display: inline_block"><br>
-  <h2>Design Gráfico</h2>
-  <img align="center" alt="Figma" height="26" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"> Figma
-</div>
+---
+
+## ⚙️ Frameworks
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+
+---
+
+## 🛠️ Tecnologias
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+
+---
+
+## 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
